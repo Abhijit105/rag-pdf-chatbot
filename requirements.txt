@@ -1,5 +1,6 @@
 streamlit
 PyPDF2
 sentence_transformers
-faiss
+faiss-cpu
 requests
+python-3.11
