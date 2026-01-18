@@ -102,6 +102,7 @@ rag-pdf-chatbot/
 ├── .env                        # Environment variables (create this)
 ├── .gitignore                  # Git ignore file
 └── README.md                   # This file
+└── LICENSE                     # MIT License
 ```
 
 ## 🛠️ Technologies Used
@@ -195,10 +196,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [X.AI](https://x.ai/) for the Grok API
 - [Streamlit](https://streamlit.io/) for the amazing framework
 - The open-source community for the incredible libraries
+- [Satyajit Pattnaik](https://www.linkedin.com/in/satyajitpattnaik/) @Codecademy
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue on GitHub.
+For questions or feedback, please contact me at [email](abhijitkumar10.5@gmail.com).
+- [GitHub](https://github.com/Abhijit105)
+- [LinkedIn](https://www.linkedin.com/in/abhijit105/)
 
 ---
 
